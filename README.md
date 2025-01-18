@@ -2,6 +2,8 @@
 
 Modern ve kullanıcı dostu bir forex trading platformu. PHP tabanlı, güvenli ve ölçeklenebilir bir sistem.
 
+[![Live Preview](https://img.shields.io/badge/Live%20Preview-forex.mrdurgut.studio-blue?style=for-the-badge&logo=firefox)](https://forex.mrdurgut.studio)
+
 [English](#english) | [Türkçe](#türkçe)
 
 # Türkçe
@@ -30,7 +32,7 @@ Modern ve kullanıcı dostu bir forex trading platformu. PHP tabanlı, güvenli 
 
 1. Repoyu klonlayın:
 ```bash
-git clone https://github.com/kullaniciadi/nuance-forex.git
+git clone https://github.com/MrDurgut/ForexTradingPlatform.git
 ```
 
 2. Veritabanını oluşturun:
@@ -96,7 +98,7 @@ A modern and user-friendly forex trading platform. PHP-based, secure, and scalab
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/username/nuance-forex.git
+git clone https://github.com/MrDurgut/ForexTradingPlatform.git
 ```
 
 2. Set up the database:
